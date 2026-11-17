@@ -1,0 +1,20 @@
+ROLlercoaster - ferie, ROL, buoni pasto e bonus presenze
+========================================================
+
+AGGIORNARE L'APP GIA' PUBBLICATA SU GITHUB
+1. Estrai questo zip sul telefono (app File -> Download -> tocca lo zip -> Estrai).
+2. Apri il repository su GitHub, tocca "..." accanto al pulsante verde "Code" -> "Upload files".
+3. Seleziona TUTTI i file della cartella estratta: GitHub sostituisce quelli con lo stesso nome.
+4. In fondo tocca "Commit changes".
+5. Dopo 1-2 minuti apri l'app e chiudila/riaprila una o due volte: si aggiorna da sola.
+   I dati gia' inseriti restano.
+6. Per vedere il nuovo nome e la nuova icona: tieni premuta l'icona sulla schermata Home -> Rimuovi,
+   poi riapri il sito in Chrome -> menu -> "Aggiungi a schermata Home".
+   Rimuovere l'icona NON cancella i dati.
+
+APK (facoltativo)
+Vai su https://www.pwabuilder.com, incolla l'indirizzo dell'app e scegli Android.
+
+BACKUP
+I dati sono salvati solo nel telefono. Da Opzioni -> "Esporta backup" salva ogni tanto
+il file .json (es. su Drive o via mail). Se cambi telefono lo reimporti con "Importa backup".
